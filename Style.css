@@ -332,7 +332,7 @@ nav .fas{
     display: none;
 }
 
-@media only screen and (max-width: 376px) {
+@media only screen and (max-width: 431px) {
     #header{
         background-image: url(images/phoneBKSiddhuBG.jpeg);
     }
@@ -395,4 +395,5 @@ nav .fas{
     color: #61b752;
     margin-top: -80;
     display: block;
+
 }
